@@ -1,0 +1,7 @@
+1. create playlist
+
+	playlist insert
+
+2. name playlist
+
+3. populate playlist
